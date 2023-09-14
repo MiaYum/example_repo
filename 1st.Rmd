@@ -2,12 +2,8 @@
 title: "Simple"
 author: "Mia Yu"
 date: "2023-09-12"
-output: 
-  html_document:
-   toc: true
-   toc_float: true
-   code_folding: hide
-   
+output: github_document
+
 ---
 
 ```{r}
